@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on **AI-powered Online Examination System**.
 - 🌱 I’m learning **Advanced AI, Machine Learning, and Backend Development**.
 - 👯 I’m open to **collaborations** on AI, Web Development, and Open Source Projects.
-- 📫 How to reach me: **[Email](mailto:your.email@example.com) | [LinkedIn](https://linkedin.com/in/yourname)**.
+- 📫 How to reach me: **[Email](mailto:firaolgadissa551@gmail.com) | [LinkedIn](https://linkedin.com/in/yourname)**.
 
 ---
 
