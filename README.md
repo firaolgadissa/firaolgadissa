@@ -38,6 +38,7 @@
 - [Project 2 Name](https://github.com/firaolgadissa/project2) - Short description.  
 
 ---
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=firaolgadissa&layout=compact&theme=tokyonight)
 
 ### 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourname)
